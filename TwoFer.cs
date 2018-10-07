@@ -10,6 +10,6 @@
     }
     public static string Output(string input)
     {
-        return "One for " + input + ", one for me.";
+        return $"One for {input}, one for me.";
     }
 }
